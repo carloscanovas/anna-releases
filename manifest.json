@@ -1,0 +1,8 @@
+{
+  "schema": 1,
+  "channel": "stable",
+  "latest": "v0.0.0",
+  "released_at": "2026-05-18T00:00:00Z",
+  "min_supported_version": "v0.0.0",
+  "releases": []
+}
