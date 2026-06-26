@@ -1,10 +1,19 @@
 {
   "schema": 1,
   "channel": "stable",
-  "latest": "v0.4.1",
-  "released_at": "2026-06-25T06:10:49.289Z",
+  "latest": "v0.4.2",
+  "released_at": "2026-06-26T12:05:08.238Z",
   "min_supported_version": "v0.0.0",
   "releases": [
+    {
+      "version": "v0.4.2",
+      "sha256": "d3c5a138fb702f01c6e0b481228c8200d52a7fb3d2b9a3e3e6c5d08c39fcd8d0",
+      "tarball_url": "https://github.com/carloscanovas/anna-releases/releases/download/v0.4.2/v0.4.2.tar.gz",
+      "signature_url": "https://github.com/carloscanovas/anna-releases/releases/download/v0.4.2/v0.4.2.tar.gz.minisig",
+      "notes_url": "https://carloscanovas.github.io/anna-releases/notes/v0.4.2.md",
+      "size_bytes": 29520825,
+      "published_at": "2026-06-26T12:05:08.238Z"
+    },
     {
       "version": "v0.4.1",
       "sha256": "634f9ad6ff5f04de98196dd346eaabaad868bdadef1640c2075af601556dd03d",
